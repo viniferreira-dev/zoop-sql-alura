@@ -1,3 +1,5 @@
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
 # Projeto de Análise de Dados da Black Friday - Zoop MegaStore
 > Análise de dados utilizando SQL - Alura
 
